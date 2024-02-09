@@ -1,0 +1,2 @@
+Esse arquivo contém os fasta de todos as regiões codificantes de 
+Thermus thermophilus.
